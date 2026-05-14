@@ -3000,8 +3000,9 @@
   var TRACKS = [
     { title:"GO",                   artist:"BLACKPINK",              src:"music/BLACKPINK - GO.mp3",                         lyricsKey:"go" },
     { title:"BIRDS OF A FEATHER",   artist:"Billie Eilish",          src:"music/Billie Eilish - BIRDS OF A FEATHER.mp3",     lyricsKey:"birds" },
-    { title:"Girls & Boys",         artist:"blur",                   src:"music/Blur - Girls & Boys (2012 Remaster).mp3",    lyricsKey:"girlsandboys" },
-    { title:"Song 2",               artist:"blur",                   src:"music/Blur - Song 2 (2012 Remaster).mp3",          lyricsKey:"song2" },
+    { title:"Beetlebum",            artist:"Blur",                   src:"music/Blur - Beetlebum (2012 Remaster).mp3",     lyricsKey:"beetlebum" },
+    { title:"Girls & Boys",         artist:"Blur",                   src:"music/Blur - Girls & Boys (2012 Remaster).mp3",    lyricsKey:"girlsandboys" },
+    { title:"Song 2",               artist:"Blur",                   src:"music/Blur - Song 2 (2012 Remaster).mp3",          lyricsKey:"song2" },
     { title:"Best Part",            artist:"Daniel Caesar / H.E.R.", src:"music/Daniel Caesar; H.E.R. - Best Part.mp3",      lyricsKey:"bestpart" },
     { title:"Oblivion",             artist:"Grimes",                 src:"music/Grimes - Oblivion.mp3",                      lyricsKey:"oblivion" },
     { title:"REALiTi",              artist:"Grimes",                 src:"music/Grimes - Realiti.mp3",                       lyricsKey:"realiti" },
